@@ -75,9 +75,9 @@ Integration with Azure Sentinel will enable centralized monitoring of alerts and
 
 4.	Adding Azure Sentinel to workspace asclab-la-{DeploymentID} is now in progress. This process will take few minutes to complete. 
 
-5.	Once Sentinel News and guides open, use the Azure Security Center connector to enable the integration.
+5.	Once Azure Sentinel News and guides open, use the Azure Security Center connector to enable the integration.
 
-6.	From Sentinel’s sidebar, click on the **Data connectors**.
+6.	From Azure Sentinel’s sidebar, click on the **Data connectors**.
 
 7.	On the Data connectors page, use the search field and type: *Azure Defender*.
 
